@@ -21,6 +21,9 @@ Analyze retail sales data to identify trends, top-performing regions, and profit
 * Sales show variation across months
 * Not all sales generate profit (loss observed in some cases)
 
+📷 Dashboard Preview
+![Dashboard](sales_dashboard.png)
+
 ## 📁 Files Included
 
 * Dataset (Excel + CSV)
