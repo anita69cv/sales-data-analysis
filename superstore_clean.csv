@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Region,Category,Sub_Category,Sales,Profit,Profit_Status
+ORD001,01-07-2022,West,Technology,Machines,3306,698,Profit
+ORD002,02-07-2022,South,Furniture,Bookcases,218,1410,Profit
+ORD003,03-07-2022,Central,Technology,Accessories,4176,803,Profit
+ORD004,04-07-2022,Central,Office Supplies,Binders,885,1017,Profit
+ORD005,05-07-2022,East,Technology,Machines,169,352,Profit
+ORD006,06-07-2022,East,Technology,Phones,2091,-461,Loss
+ORD007,07-07-2022,Central,Technology,Phones,2001,-85,Loss
+ORD008,08-07-2022,South,Office Supplies,Storage,3751,590,Profit
+ORD009,09-07-2022,South,Technology,Phones,2059,123,Profit
+ORD010,10-07-2022,South,Furniture,Bookcases,104,543,Profit
+ORD011,11-07-2022,West,Furniture,Tables,4035,705,Profit
+ORD012,12-07-2022,East,Technology,Accessories,3526,-283,Loss
+ORD013,13-07-2022,East,Technology,Machines,3522,-489,Loss
+ORD014,14-07-2022,East,Furniture,Chairs,3566,322,Profit
+ORD015,15-07-2022,Central,Furniture,Chairs,1485,-471,Loss
+ORD016,16-07-2022,South,Office Supplies,Storage,332,542,Profit
+ORD017,17-07-2022,Central,Furniture,Tables,3824,309,Profit
+ORD018,18-07-2022,Central,Furniture,Bookcases,3025,1299,Profit
+ORD019,19-07-2022,Central,Office Supplies,Paper,2624,568,Profit
+ORD020,20-07-2022,Central,Office Supplies,Binders,234,876,Profit
+ORD021,21-07-2022,Central,Technology,Accessories,2340,858,Profit
+ORD022,22-07-2022,West,Furniture,Tables,1896,1075,Profit
+ORD023,23-07-2022,East,Furniture,Chairs,3361,888,Profit
+ORD024,24-07-2022,South,Office Supplies,Storage,4137,230,Profit
+ORD025,25-07-2022,South,Technology,Phones,1948,575,Profit
+ORD026,26-07-2022,South,Office Supplies,Paper,3428,1427,Profit
+ORD027,27-07-2022,South,Office Supplies,Storage,3564,1279,Profit
+ORD028,28-07-2022,East,Office Supplies,Storage,232,996,Profit
+ORD029,29-07-2022,West,Office Supplies,Storage,219,1489,Profit
+ORD030,30-07-2022,South,Technology,Machines,1941,856,Profit
+ORD031,31-07-2022,East,Office Supplies,Paper,3969,327,Profit
+ORD032,01-08-2022,South,Technology,Phones,1852,289,Profit
+ORD033,02-08-2022,East,Technology,Phones,3517,1209,Profit
+ORD034,03-08-2022,Central,Technology,Accessories,1354,913,Profit
+ORD035,04-08-2022,West,Office Supplies,Storage,1879,440,Profit
+ORD036,05-08-2022,Central,Technology,Accessories,2381,334,Profit
+ORD037,06-08-2022,Central,Furniture,Tables,3885,-105,Loss
+ORD038,07-08-2022,West,Office Supplies,Paper,3032,1399,Profit
+ORD039,08-08-2022,Central,Office Supplies,Storage,392,-404,Loss
+ORD040,09-08-2022,Central,Technology,Accessories,4126,-322,Loss
+ORD041,10-08-2022,West,Office Supplies,Storage,3782,-177,Loss
+ORD042,11-08-2022,Central,Office Supplies,Binders,4804,-426,Loss
+ORD043,12-08-2022,East,Technology,Machines,558,787,Profit
+ORD044,13-08-2022,South,Office Supplies,Paper,1963,987,Profit
+ORD045,14-08-2022,Central,Office Supplies,Storage,2230,534,Profit
+ORD046,15-08-2022,East,Office Supplies,Binders,4612,-441,Loss
+ORD047,16-08-2022,East,Furniture,Tables,3125,1136,Profit
+ORD048,17-08-2022,Central,Office Supplies,Paper,2156,-249,Loss
+ORD049,18-08-2022,South,Technology,Machines,3214,916,Profit
+ORD050,19-08-2022,East,Office Supplies,Paper,262,-88,Loss
+ORD051,20-08-2022,Central,Technology,Accessories,2696,806,Profit
+ORD052,21-08-2022,West,Furniture,Tables,1898,3,Profit
+ORD053,22-08-2022,Central,Office Supplies,Paper,937,-376,Loss
+ORD054,23-08-2022,East,Technology,Phones,847,374,Profit
+ORD055,24-08-2022,East,Office Supplies,Storage,2295,-141,Loss
+ORD056,25-08-2022,East,Office Supplies,Binders,2998,1168,Profit
+ORD057,26-08-2022,East,Office Supplies,Binders,3237,465,Profit
+ORD058,27-08-2022,West,Furniture,Chairs,4918,445,Profit
+ORD059,28-08-2022,East,Technology,Accessories,4818,1138,Profit
+ORD060,29-08-2022,South,Furniture,Tables,3286,16,Profit
+ORD061,30-08-2022,South,Technology,Accessories,4999,759,Profit
+ORD062,31-08-2022,West,Office Supplies,Paper,1347,580,Profit
+ORD063,01-09-2022,Central,Office Supplies,Storage,1089,49,Profit
+ORD064,02-09-2022,West,Technology,Accessories,800,1360,Profit
+ORD065,03-09-2022,West,Furniture,Chairs,313,186,Profit
+ORD066,04-09-2022,South,Technology,Phones,844,-353,Loss
+ORD067,05-09-2022,Central,Technology,Accessories,4745,-425,Loss
+ORD068,06-09-2022,West,Technology,Phones,2903,1168,Profit
+ORD069,07-09-2022,East,Technology,Machines,2364,444,Profit
+ORD070,08-09-2022,West,Office Supplies,Storage,2757,1186,Profit
+ORD071,09-09-2022,West,Technology,Machines,3095,424,Profit
+ORD072,10-09-2022,South,Technology,Accessories,3221,680,Profit
+ORD073,11-09-2022,South,Furniture,Tables,756,320,Profit
+ORD074,12-09-2022,East,Office Supplies,Paper,4311,-291,Loss
+ORD075,13-09-2022,Central,Furniture,Bookcases,904,236,Profit
+ORD076,14-09-2022,West,Furniture,Tables,1420,1097,Profit
+ORD077,15-09-2022,South,Technology,Accessories,1018,1190,Profit
+ORD078,16-09-2022,Central,Furniture,Chairs,4649,-143,Loss
+ORD079,17-09-2022,East,Technology,Phones,3889,598,Profit
+ORD080,18-09-2022,South,Technology,Machines,3012,1064,Profit
+ORD081,19-09-2022,West,Office Supplies,Storage,1435,1387,Profit
+ORD082,20-09-2022,South,Office Supplies,Storage,3265,-483,Loss
+ORD083,21-09-2022,East,Furniture,Bookcases,1469,569,Profit
+ORD084,22-09-2022,East,Office Supplies,Paper,630,465,Profit
+ORD085,23-09-2022,South,Office Supplies,Storage,2402,130,Profit
+ORD086,24-09-2022,Central,Office Supplies,Storage,3951,619,Profit
+ORD087,25-09-2022,West,Furniture,Chairs,1131,1425,Profit
+ORD088,26-09-2022,West,Furniture,Chairs,2197,102,Profit
+ORD089,27-09-2022,Central,Office Supplies,Binders,2185,75,Profit
+ORD090,28-09-2022,West,Furniture,Tables,2143,653,Profit
+ORD091,29-09-2022,South,Furniture,Chairs,4742,624,Profit
+ORD092,30-09-2022,West,Furniture,Bookcases,2772,510,Profit
+ORD093,01-10-2022,West,Office Supplies,Paper,2048,530,Profit
+ORD094,02-10-2022,South,Technology,Accessories,3998,746,Profit
+ORD095,03-10-2022,West,Technology,Machines,3312,623,Profit
+ORD096,04-10-2022,East,Furniture,Tables,531,-265,Loss
+ORD097,05-10-2022,East,Furniture,Chairs,2394,468,Profit
+ORD098,06-10-2022,South,Office Supplies,Storage,1084,1029,Profit
+ORD099,07-10-2022,Central,Technology,Accessories,343,571,Profit
+ORD100,08-10-2022,Central,Furniture,Chairs,4183,644,Profit
